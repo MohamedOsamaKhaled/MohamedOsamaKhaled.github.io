@@ -1,5 +1,5 @@
-# MohamedOsamaKhaled.github.io
-MohamedOsamaKhaled Portfolio
+# MohamedOsamaKhaled Portfolio
+## https://MohamedOsamaKhaled.github.io/
 
 # How to deploy the react app?
  step-1: open package.json file and add this: 
