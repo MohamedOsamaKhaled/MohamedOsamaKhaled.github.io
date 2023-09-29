@@ -88,13 +88,13 @@ const skills = {
         "⚡ Setting up streaming jobs from DB to Server or vice-versa on GCP and AWS",
       ],
       softwareSkills: [
-        {
-          skillName: "GCP",
-          fontAwesomeClassname: "simple-icons:googlecloud",
-          style: {
-            color: "#4285F4",
-          },
-        },
+        // {
+        //   skillName: "OCI",
+        //   fontAwesomeClassname: "simple-icons:googlecloud",
+        //   style: {
+        //     color: "#4285F4",
+        //   },
+        // },
         {
           skillName: "AWS",
           fontAwesomeClassname: "simple-icons:amazonaws",
@@ -103,31 +103,10 @@ const skills = {
           },
         },
         {
-          skillName: "Azure",
-          fontAwesomeClassname: "simple-icons:microsoftazure",
+          skillName: "OpenShift",
+          fontAwesomeClassname: "simple-icons:redhat",
           style: {
             color: "#0089D6",
-          },
-        },
-        {
-          skillName: "Firebase",
-          fontAwesomeClassname: "simple-icons:firebase",
-          style: {
-            color: "#FFCA28",
-          },
-        },
-        {
-          skillName: "PostgreSQL",
-          fontAwesomeClassname: "simple-icons:postgresql",
-          style: {
-            color: "#336791",
-          },
-        },
-        {
-          skillName: "MongoDB",
-          fontAwesomeClassname: "simple-icons:mongodb",
-          style: {
-            color: "#47A248",
           },
         },
         {
@@ -142,6 +121,201 @@ const skills = {
           fontAwesomeClassname: "simple-icons:kubernetes",
           style: {
             color: "#326CE5",
+          },
+        },
+        {
+          skillName: "Jenkins",
+          fontAwesomeClassname: "simple-icons:jenkins",
+          style: {
+            color: "#326CE5",
+          },
+        },
+        {
+          skillName: "Terraform",
+          fontAwesomeClassname: "simple-icons:terraform",
+          style: {
+            color: "#326CE5",
+          },
+        },
+        {
+          skillName: "Ansible",
+          fontAwesomeClassname: "simple-icons:ansible",
+          style: {
+            color: "#326CE5",
+          },
+        },
+        {
+          skillName: "Linux",
+          fontAwesomeClassname: "simple-icons:linux",
+          style: {
+            backgroundColor: "transparent",
+          },
+        },
+        {
+          skillName: "Python",
+          fontAwesomeClassname: "ion-logo-python",
+          style: {
+            backgroundColor: "transparent",
+            color: "#3776AB",
+          },
+        },
+        {
+          skillName: "JavaScript",
+          fontAwesomeClassname: "ion-logo-javascript",
+          style: {
+            backgroundColor: "transparent",
+            color: "#3776AB",
+          },
+        },
+        {
+          skillName: "Git",
+          fontAwesomeClassname: "simple-icons:git",
+          style: {
+            color: "#336791",
+          },
+        },
+        {
+          skillName: "PostgreSQL",
+          fontAwesomeClassname: "simple-icons:postgresql",
+          style: {
+            color: "#336791",
+          },
+        },
+        {
+          skillName: "Oracle-Database",
+          fontAwesomeClassname: "simple-icons:oracle",
+          style: {
+            color: "#336791",
+          },
+        },
+        {
+          skillName: "ElasticSearch",
+          fontAwesomeClassname: "simple-icons:elasticsearch",
+          style: {
+            color: "#FFCA28",
+          },
+        },
+        {
+          skillName: "Kibana",
+          fontAwesomeClassname: "simple-icons:kibana",
+          style: {
+            backgroundColor: "transparent",
+          },
+        },
+        {
+          skillName: "MongoDB",
+          fontAwesomeClassname: "simple-icons:mongodb",
+          style: {
+            color: "#47A248",
+          },
+        },
+        // {
+        //   skillName: "Jira",
+        //   fontAwesomeClassname: "simple-icons:jira",
+        //   style: {
+        //     backgroundColor: "transparent",
+        //   },
+        // },
+      ],
+    },
+    {
+      title: "Software Implementation Consultant",
+      fileName: "DataScienceImg",
+      skills: [
+        "⚡ Implement the software releases, configuring and tuning the software in the customer environment, Fix the issues which happen during the implementation.",
+        "⚡ Test the system and ensure that every part of the system functions properly.",
+        "⚡ Train users and provide support to the customer onsite or remotely during acceptance testing Deployment of the system on the client site, Understanding the client infrastructure Ensuring the delivery of the requirements to clients, answer any question regarding the business or the solution Report any issues to the support team, ensure that the system is live and working correctly with no downtime.",
+      ],
+      softwareSkills: [
+        {
+          skillName: "Tomcat",
+          fontAwesomeClassname: "logos-tomcat",
+          style: {
+            backgroundColor: "transparent",
+          },
+        },
+        {
+          skillName: "WebSphere",
+          fontAwesomeClassname: "simple-icons:ibm",
+          style: {
+            color: "#336791",
+          },
+        },
+        {
+          skillName: "WebLogic",
+          fontAwesomeClassname: "simple-icons:oracle",
+          style: {
+            color: "#336791",
+          },
+        },
+        {
+          skillName: "Nginx",
+          fontAwesomeClassname: "simple-icons:nginx",
+          style: {
+            backgroundColor: "transparent",
+          },
+        },
+        {
+          skillName: "Git",
+          fontAwesomeClassname: "simple-icons:git",
+          style: {
+            color: "#336791",
+          },
+        },
+        {
+          skillName: "GitHub",
+          fontAwesomeClassname: "simple-icons:github",
+          style: {
+            color: "#336791",
+          },
+        },
+        {
+          skillName: "MySQL",
+          fontAwesomeClassname: "logos-mysql",
+          style: {
+            backgroundColor: "transparent",
+          },
+        },
+        {
+          skillName: "SQL-Server",
+          fontAwesomeClassname: "simple-icons:microsoftsqlserver",
+          style: {
+            backgroundColor: "transparent",
+          },
+        },
+        {
+          skillName: "ElasticSearch",
+          fontAwesomeClassname: "simple-icons:elasticsearch",
+          style: {
+            backgroundColor: "transparent",
+          },
+        },
+        {
+          skillName: "Kibana",
+          fontAwesomeClassname: "simple-icons:kibana",
+          style: {
+            backgroundColor: "transparent",
+          },
+        },
+        {
+          skillName: "Linux",
+          fontAwesomeClassname: "simple-icons:linux",
+          style: {
+            backgroundColor: "transparent",
+          },
+        },
+        {
+          skillName: "Windows",
+          fontAwesomeClassname: "simple-icons:windows",
+          style: {
+            backgroundColor: "transparent",
+          },
+        },
+        {
+          skillName: "Jira",
+          fontAwesomeClassname: "simple-icons:jira",
+          style: {
+            backgroundColor: "transparent",
           },
         },
       ],
@@ -192,8 +366,22 @@ const skills = {
           },
         },
         {
+          skillName: "Angular",
+          fontAwesomeClassname: "simple-icons:angular",
+          style: {
+            color: "#663399",
+          },
+        },
+        {
           skillName: "NodeJS",
-          fontAwesomeClassname: "simple-icons:node",
+          fontAwesomeClassname: "logos-nodejs",
+          style: {
+            color: "#339933",
+          },
+        },
+        {
+          skillName: "Express",
+          fontAwesomeClassname: "simple-icons:express",
           style: {
             color: "#339933",
           },
@@ -213,15 +401,8 @@ const skills = {
           },
         },
         {
-          skillName: "Gatsby",
-          fontAwesomeClassname: "simple-icons:gatsby",
-          style: {
-            color: "#663399",
-          },
-        },
-        {
-          skillName: "Flutter",
-          fontAwesomeClassname: "simple-icons:flutter",
+          skillName: "Kotlin",
+          fontAwesomeClassname: "simple-icons:kotlin",
           style: {
             color: "#02569B",
           },
@@ -267,51 +448,6 @@ const skills = {
         },
       ],
     },
-    // {
-    //   title: "Data Analysis & AI",
-    //   fileName: "DataScienceImg",
-    //   skills: [
-    //     "⚡ Developing highly scalable production ready models for various deeplearning and statistical use cases",
-    //     "⚡ Experience of working with Computer Vision and NLP projects",
-    //     "⚡ Complex quantitative modelling for dynamic forecasting and time series analysis",
-    //   ],
-    //   softwareSkills: [
-    //     {
-    //       skillName: "Tensorflow",
-    //       fontAwesomeClassname: "logos-tensorflow",
-    //       style: {
-    //         backgroundColor: "transparent",
-    //       },
-    //     },
-    //     {
-    //       skillName: "Keras",
-    //       fontAwesomeClassname: "simple-icons:keras",
-    //       style: {
-    //         backgroundColor: "white",
-    //         color: "#D00000",
-    //       },
-    //     },
-    //     {
-    //       skillName: "PyTorch",
-    //       fontAwesomeClassname: "logos-pytorch",
-    //       style: {
-    //         backgroundColor: "transparent",
-    //       },
-    //     },
-    //     {
-    //       skillName: "Python",
-    //       fontAwesomeClassname: "ion-logo-python",
-    //       style: {
-    //         backgroundColor: "transparent",
-    //         color: "#3776AB",
-    //       },
-    //     },
-    //     {
-    //       skillName: "Deeplearning",
-    //       imageSrc: "deeplearning_ai_logo.png",
-    //     },
-    //   ],
-    // },
   ],
 };
 
@@ -415,7 +551,7 @@ const certifications = {
       subtitle: "- Cloud Computing",
       logo_path: "ibm_logo.png",
       certificate_link:
-        "https://github.com/MohamedOsamaKhaled/Certifications/tree/main/DevOps",
+        "https://github.com/MohamedOsamaKhaled/Certifications/tree/main/DevOps%26SystemAdmin",
       alt_name: "IBM",
       color_code: "#1F70C199",
     },
