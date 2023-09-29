@@ -821,7 +821,7 @@ const contactPageData = {
     title: "Contact Me",
     profile_image_path: "animated_ashutosh.png",
     description:
-      "I am available on LinkedIn. You can message me, I will reply within 24 hours. I can help you with React, Android, Cloud and Opensource Development.",
+      "I'm reachable on LinkedIn, WhatsApp, or Gmail, feel free to drop me a message—I'll respond within 24 hours. I can help you with JavaScript Applications (Web & Mobile), and navigating the realm of DevOps.",
   },
   // blogSection: {
   //   title: "Blogs",
