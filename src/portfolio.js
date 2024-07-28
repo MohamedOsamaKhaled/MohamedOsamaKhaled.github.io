@@ -31,7 +31,6 @@ const greeting = {
 };
 
 const socialMediaLinks = [
-
   {
     name: "Github",
     link: "https://github.com/MohamedOsamaKhaled/",
@@ -819,7 +818,7 @@ const projectsHeader = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "animated_ashutosh.png",
+    profile_image_path: "ME-removebg-preview.png",
     description:
       "I'm reachable on LinkedIn, WhatsApp, or Gmail, feel free to drop me a message—I'll respond within 24 hours. I can help you with JavaScript Applications (Web & Mobile), and navigating the realm of DevOps.",
   },
@@ -827,13 +826,12 @@ const contactPageData = {
   //   title: "Blogs",
   //   subtitle:
   //     "For individual fundamental empowerment, I like to write powerful lessons that create impact on each of the reader individually to change the core of their character.",
-  //   link: "https://blogs.ashutoshhathidara.com/",
+  //   link: "https://blogs.MohamedosamaKhaled.com/",
   //   avatar_image_path: "blogs_image.svg",
   // },
   addressSection: {
     title: "Address",
-    subtitle:
-      "Cairo, Egypt",
+    subtitle: "Cairo, Egypt",
     locality: "Cairo",
     country: "EG",
     region: "Egyption",
