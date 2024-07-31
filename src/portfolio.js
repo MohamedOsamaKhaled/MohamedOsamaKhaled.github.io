@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
-    "https://drive.google.com/file/d/1DeZhk-gyVeCX_yno9jBfv6c-HXE2AOeX/view?usp=sharing",
+    "https://drive.google.com/file/d/18JZX6haZRHvBGixazCdREwKwd88fslQf/view?usp=sharing",
   portfolio_repository: "https://github.com/MohamedOsamaKhaled/",
   githubProfile: "https://github.com/MohamedOsamaKhaled",
 };
