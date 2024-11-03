@@ -459,7 +459,7 @@ const competitiveSites = {
       style: {
         color: "#181717",
       },
-      profileLink: "https://www.codechef.com/users/ashutosh_1919",
+      profileLink: "https://github.com/MohamedOsamaKhaled/Certifications",
     },
     {
       siteName: "LeetCode",
