@@ -1,10 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.5703cb18.css",
-    "main.js": "/static/js/main.ef7cfb39.js",
+    "main.js": "/static/js/main.a83b3fad.js",
     "static/media/portfolio.gif": "/static/media/portfolio.ed6c89f1485f23014ebd.gif",
     "static/media/fa-solid-900.svg": "/static/media/fa-solid-900.9fa614346b4e81decc62.svg",
     "static/media/fa-brands-400.svg": "/static/media/fa-brands-400.6fcab609e2f62d5c3104.svg",
+    "static/media/animated_ashutosh.png": "/static/media/animated_ashutosh.c3fcfab6d27703a25946.png",
     "static/media/tiktok_logo.png": "/static/media/tiktok_logo.bf41765c122d4b0f3fee.png",
     "static/media/ME-removebg-preview.png": "/static/media/ME-removebg-preview.4fe687b7fb10335dd565.png",
     "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
@@ -34,7 +35,6 @@
     "static/media/iiitk_logo-old.png": "/static/media/iiitk_logo-old.170d558551a09a7d1620.png",
     "static/media/intel_logo.jpg": "/static/media/intel_logo.d7577f35a3dac4e5636d.jpg",
     "static/media/ui_ux_design.svg": "/static/media/ui_ux_design.42a2cdaf132097cc499e.svg",
-    "static/media/animated_ashutosh.png": "/static/media/animated_ashutosh.244236358730226a43b5.png",
     "static/media/manOnTable.svg": "/static/media/manOnTable.f861b03b5a2d1a28c198.svg",
     "static/media/muffito_logo.png": "/static/media/muffito_logo.a40e290031eaf389bde1.png",
     "static/media/deeplearning_ai_logo.png": "/static/media/deeplearning_ai_logo.f5e1bd288e7a2b30a390.png",
@@ -65,10 +65,10 @@
     "static/media/talksCardBackAlt.svg": "/static/media/talksCardBackAlt.018d87225926eee9ccc3.svg",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.7dc8695e60efbc2baab8.svg",
     "main.5703cb18.css.map": "/static/css/main.5703cb18.css.map",
-    "main.ef7cfb39.js.map": "/static/js/main.ef7cfb39.js.map"
+    "main.a83b3fad.js.map": "/static/js/main.a83b3fad.js.map"
   },
   "entrypoints": [
     "static/css/main.5703cb18.css",
-    "static/js/main.ef7cfb39.js"
+    "static/js/main.a83b3fad.js"
   ]
 }
