@@ -9,7 +9,7 @@ const settings = {
 const seo = {
   title: "Mohamed Osama Khaled",
   description:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "Business and Technology professional specializing in Open Finance, digital transformation, and enterprise systems implementation. Experienced in bridging business needs with technical delivery through business analysis, product ownership, and DevOps practices. Proven track record in leading initiatives, CI/CD automation, and regulatory compliance projects, delivering measurable efficiency gains and cost reductions. Skilled at aligning stakeholders, driving process improvements, and enabling scalable, secure financial solutions.",
   og: {
     title: "Mohamed Osama Portfolio",
     type: "website",
@@ -23,9 +23,9 @@ const greeting = {
   logo_name: "MohamedOsamaKhaled",
   nickname: "DevOps Engineer",
   subTitle:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "Business and Technology professional specializing in Open Finance, digital transformation, and enterprise system implementation. Experienced in bridging business needs with technical delivery through business analysis, product ownership, and DevOps practices. Proven track record in leading initiatives, CI/CD automation, and regulatory compliance projects, delivering measurable efficiency gains and cost reductions. Skilled at aligning stakeholders, driving process improvements, and enabling scalable, secure financial solutions.",
   resumeLink:
-    "https://drive.google.com/file/d/18JZX6haZRHvBGixazCdREwKwd88fslQf/view?usp=sharing",
+    "https://drive.google.com/file/d/1GOHMasK7jWHAI4uruZoOSCc8i5lYhVLh/view?usp=sharing",
   portfolio_repository: "https://github.com/MohamedOsamaKhaled/",
   githubProfile: "https://github.com/MohamedOsamaKhaled",
 };
@@ -606,14 +606,36 @@ const experience = {
       work: true,
       experiences: [
         {
+          title: "Senior Manager / Products Senior Specialist",
+          company: "Riyad Bank",
+          company_url: "https://www.riyadbank.com/",
+          //logo_path: "legato_logo.png",
+          duration: "January 2025 - Present",
+          location: "Riyadh, Saudi Arabia",
+          description:
+            "Responsible for driving the end-to-end delivery of Business Requirement Documents (BRDs) from initiation to approval, ensuring alignment with stakeholders, solution analysts, and product owners. I translated business needs into actionable requirements, user stories, mockups, and UAT test cases, enabling efficient product development and smooth handovers to design and solution teams. By mapping and redesigning business processes, I supported business case development and defined performance metrics to optimise outcomes. Additionally, I contributed to continuous improvement initiatives, enhancing efficiency, reducing costs, and improving productivity, while ensuring compliance with organisational policies, quality standards, and reporting requirements.",
+          color: "#0879bf",
+        },
+        {
+          title: "Senior Site Reliability Engineer",
+          company: "Iotblue",
+          company_url: "https://www.iotblue.com/",
+          //logo_path: "legato_logo.png",
+          duration: "September 2024 - January 2025",
+          location: "Riyadh, Saudi Arabia",
+          description:
+            "As a skilled SRE professional, I provide onsite and remote software application support, analyzing and troubleshooting technical issues via phone, email, or in-person, and escalating problems when necessary. I offer 1st and 2nd level support for production issues across various applications and domains, monitor deployed systems and services, and ensure seamless updates to existing services. My responsibilities include writing comprehensive user manuals, documenting known issues with troubleshooting steps, and training clients on system usage and issue resolution. With a solid foundation in networking and IoT components, I perform advanced issue investigations, including code analysis, and review and test software component deployments against detailed checklists. I prepare daily reports on system and site-raised issues, collaborate with internal teams such as development, business, and QA, and maintain direct communication with end users and clients. Additionally, I write, modify, and execute SQL queries, reproduce client issues on different platforms for development teams, and manage and prioritize open issues while logging all related activities for efficient resolution.",
+          color: "#0879bf",
+        },
+        {
           title: "Software Implementation",
           company: "Knowledge Net",
           company_url: "https://kn-it.com/",
           //logo_path: "legato_logo.png",
-          duration: "May 2022 - Present",
+          duration: "May 2022 - September 2024",
           location: "Cairo, Egypt",
           description:
-            " Implement the software releases, configuring and tuning the software in the customer environment, Fix the issues which happen during the implementation. Test the system and ensure that every part of the system functions properly. Train users and provide support to the customer onsite or remotely during acceptance testing Deployment of the system on the client site, Understanding the client infrastructure Ensuring the delivery of the requirements to clients, answer any question regarding the business or the solution Report any issues to the support team, ensure that the system is live and working correctly with no downtime.",
+            "Implement the software releases, configuring and tuning the software in the customer environment, Fix the issues which happen during the implementation. Test the system and ensure that every part of the system functions properly. Train users and provide support to the customer onsite or remotely during acceptance testing Deployment of the system on the client site, Understanding the client infrastructure Ensuring the delivery of the requirements to clients, answer any question regarding the business or the solution Report any issues to the support team, ensure that the system is live and working correctly with no downtime.",
           color: "#0879bf",
         },
         {
@@ -820,7 +842,7 @@ const contactPageData = {
     title: "Contact Me",
     profile_image_path: "ME-removebg-preview.png",
     description:
-      "I'm reachable on LinkedIn, WhatsApp, or Gmail, feel free to drop me a message—I'll respond within 24 hours. I can help you with JavaScript Applications (Web & Mobile), and navigating the realm of DevOps.",
+      "I'm reachable on LinkedIn, WhatsApp, or Gmail, feel free to drop me a message—I'll respond within 24 hours. I can help you with Web & Mobile Applications, and navigating the realm of DevOps and Cloud.",
   },
   // blogSection: {
   //   title: "Blogs",
